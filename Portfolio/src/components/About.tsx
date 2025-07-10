@@ -97,7 +97,7 @@ const About: React.FC = () => {
                 >
                   <div className="w-full h-full rounded-full overflow-hidden bg-gray-900">
                     <img
-                      src="/public/updt profile photo.jpg"
+                      src="/updt profile photo.jpg"
                       alt="Tanishq Mehta"
                       className="w-full h-full object-cover"
                     />
